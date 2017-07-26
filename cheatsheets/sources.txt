@@ -1,0 +1,3 @@
+* datacamp_keras.jpeg: https://www.datacamp.com/community/blog/keras-cheat-sheet
+* neuralnetworks.png: http://www.asimovinstitute.org/neural-network-zoo
+* altoros_tensorflow.pdf: https://www.altoros.com/tensorflow-cheat-sheet.html
