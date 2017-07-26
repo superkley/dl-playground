@@ -2,8 +2,9 @@
 
 Introduction to deep learning based on Keras framework. These tutorials are mostly direct ports of nlintz's [TensorFlow Tutorials](https://github.com/nlintz/TensorFlow-Tutorials).
 
-*Basic Topics (from nlint'z github)*
+*Basic Topics*
 
+0. Keras Tutorial for Machine Learning Seminar at Tsukuba (translated, [original-ja](https://github.com/nzw0301/keras-examples/blob/master/keras_tutorial.ipynb))
 1. Linear Regression ([code](https://github.com/tgjeon/Keras-Tutorials/blob/master/01_linear_regression.py), [notebook](https://github.com/tgjeon/Keras-Tutorials/blob/master/01_linear_regression.ipynb))
 2. Logistic Regression ([code](https://github.com/tgjeon/Keras-Tutorials/blob/master/02_logistic_regression.py), [notebook](https://github.com/tgjeon/Keras-Tutorials/blob/master/02_logistic_regression.ipynb))
 3. Feedforward Neural Network (Multilayer Perceptron) ([code](https://github.com/tgjeon/Keras-Tutorials/blob/master/03_net.py), [notebook](https://github.com/tgjeon/Keras-Tutorials/blob/master/03_net.ipynb))
