@@ -17,4 +17,6 @@ Introduction to deep learning based on Keras framework. These tutorials are most
 10. Save and restore net ([code](https://github.com/tgjeon/Keras-Tutorials/blob/master/10_save_restore_net.py), [notebook](https://github.com/tgjeon/Keras-Tutorials/blob/master/10_save_restore_net.ipynb))
 11. Generative Adversarial Model ([GAN](https://github.com/osh/KerasGAN))
 12. Structurally Constrained Recurrent Nets ([SCRN](https://github.com/nzw0301/keras-examples/blob/master/SCRNLM.ipynb))
+13. Deep Reinforcement algorithm: Deep Q-Network ([DQN](https://github.com/matthiasplappert/keras-rl))
 
+Source: https://github.com/leriomaggio/deep-learning-keras-tensorflow
