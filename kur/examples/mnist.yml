@@ -1,0 +1,22 @@
+---
+train:
+  data:
+    - mnist:
+        images:
+          url: "http://yann.lecun.com/exdb/mnist/train-images-idx3-ubyte.gz"
+        labels:
+          url: "http://yann.lecun.com/exdb/mnist/train-labels-idx1-ubyte.gz"
+
+model:
+  - input: images
+  - convolution:
+      kernels: 64
+      size: [2, 2]
+  - activation: relu
+  - flatten:
+  - dense: 10
+  - activation: softmax
+    name: labels
+        
+include: mnist-defaults.yml
+...

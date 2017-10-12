@@ -1,0 +1,1 @@
+Intel Academy URL: https://software.intel.com/en-us/ai-academy/students/kits
